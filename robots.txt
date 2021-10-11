@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://limatahun-syair.vercel.app/sitemap.xml
